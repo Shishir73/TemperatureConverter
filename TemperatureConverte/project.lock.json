@@ -18470,11 +18470,10 @@
     "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\DNP1examn\\TemperatureConverte\\TemperatureConverte.csproj",
-      "projectName": "TemperatureConverte",
-      "projectPath": "C:\\Users\\user\\source\\repos\\DNP1examn\\TemperatureConverte\\TemperatureConverte.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\DNP1examn\\TemperatureConverte\\TemperatureConverter.csproj",
+      "projectName": "TemperatureConverter",
+      "projectPath": "C:\\Users\\user\\source\\repos\\DNP1examn\\TemperatureConverte\\TemperatureConverter.csproj",
       "projectJsonPath": "C:\\Users\\user\\source\\repos\\DNP1examn\\TemperatureConverte\\project.json",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\source\\repos\\DNP1examn\\TemperatureConverte\\obj\\",
@@ -18490,10 +18489,7 @@
     },
     "dependencies": {
       "Microsoft.NETCore": "[5.0.0, )",
-      "Microsoft.NETCore.Portable.Compatibility": {
-        "target": "Package",
-        "version": "[1.0.0, )"
-      }
+      "Microsoft.NETCore.Portable.Compatibility": "[1.0.0, )"
     },
     "frameworks": {
       "dotnet5.0": {

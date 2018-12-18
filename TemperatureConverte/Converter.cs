@@ -7,15 +7,15 @@ namespace TemperatureConverter
 {
     public class Converter
     {
-        public int temperatureToCelsius(int fahrenheit)
+        public double temperatureToCelsius(double fahrenheit)
         {
-            int celsius;
+            double celsius;
             return celsius = (fahrenheit - 32) * 5 / 9;
         }
 
-        public int temperatureToFahrenheit(int celsius)
+        public double temperatureToFahrenheit(double celsius)
         {
-            int fahrenheit;
+            double fahrenheit;
             return fahrenheit = (celsius * 9 / 5) + 32;
         }
     }
