@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DNP1examn\TempConverter\bin\Debug\TempConverter.exe.config
+C:\Users\user\source\repos\DNP1examn\TempConverter\bin\Debug\TempConverter.exe
+C:\Users\user\source\repos\DNP1examn\TempConverter\bin\Debug\TempConverter.pdb
+C:\Users\user\source\repos\DNP1examn\TempConverter\bin\Debug\TemperatureConverte.dll
+C:\Users\user\source\repos\DNP1examn\TempConverter\bin\Debug\TemperatureConverte.pdb
+C:\Users\user\source\repos\DNP1examn\TempConverter\obj\Debug\TempConverter.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DNP1examn\TempConverter\obj\Debug\TempConverter.Form1.resources
+C:\Users\user\source\repos\DNP1examn\TempConverter\obj\Debug\TempConverter.Properties.Resources.resources
+C:\Users\user\source\repos\DNP1examn\TempConverter\obj\Debug\TempConverter.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DNP1examn\TempConverter\obj\Debug\TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DNP1examn\TempConverter\obj\Debug\TempConverter.csproj.CopyComplete
+C:\Users\user\source\repos\DNP1examn\TempConverter\obj\Debug\TempConverter.exe
+C:\Users\user\source\repos\DNP1examn\TempConverter\obj\Debug\TempConverter.pdb
